@@ -11,10 +11,10 @@ from   time import gmtime, strftime
 
 
 # Initialization variables
-CONSUMER_KEY        = '8iuJ0lzJHKT8PV9RwqEjQkIZj'
-CONSUMER_SECRET     = 'RZj0TRte2nJmWMWePDu85BeYmsVAdQpOAgFNJcTcMbvD0hpmGY'
-ACCESS_TOKEN_KEY    = '11635342-7ACgqjPS0ABMrKojWbIrpzZrHmgyXzSW55IFiNAnQ'
-ACCESS_TOKEN_SECRET = 'PKYcgDNUV9QiiQ1aeAY7mW72IBRrwVG7s87dLwzuUiLDA'
+CONSUMER_KEY        = ''
+CONSUMER_SECRET     = ''
+ACCESS_TOKEN_KEY    = ''
+ACCESS_TOKEN_SECRET = ''
 
 THRESHOLD = 7*24*60*60 # Keep 7 days worth of tweets
 
