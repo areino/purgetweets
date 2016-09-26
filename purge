@@ -1,0 +1,10 @@
+#!/bin/bash 
+
+echo Starting loop...
+while true; do
+	python purgemytweets.py
+	echo Sleeping for 24h before restart.
+	sleep 86400 
+	done
+
+
